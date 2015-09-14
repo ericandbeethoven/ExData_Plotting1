@@ -1,8 +1,38 @@
+## Project R Scripts and Plots
+
+The R code to creates plots 1-4 are:
+
+[plot1.R](https://github.com/ericandbeethoven/ExData_Plotting1/blob/master/plot1.R)
+[plot2.R](https://github.com/ericandbeethoven/ExData_Plotting1/blob/master/plot2.R)
+[plot3.R](https://github.com/ericandbeethoven/ExData_Plotting1/blob/master/plot3.R)
+[plot4.R](https://github.com/ericandbeethoven/ExData_Plotting1/blob/master/plot4.R)
+
+The resulting plots in png format are:
+
+
+
+### Plot 1
+
+
+![plot1](plot1.png) 
+
+
+### Plot 2
+
+![plot2](plot2.png) 
+
+
+### Plot 3
+
+![plot3](plot3.png) 
+
+
+### Plot 4
+
+![plot4](plot4.png) 
+
+
 ## Introduction
-
-The R code to creates plots 1-4 are included in the master trunk.
-
-The resulting plots in png format are linked in the last section of this README file.
 
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
@@ -93,26 +123,4 @@ GitHub so that the GitHub version of your repository is up to
 date. There should be four PNG files and four R code files.
 
 
-The four plots that I constructed are shown below. 
-
-
-### Plot 1
-
-
-![plot1](plot1.png) 
-
-
-### Plot 2
-
-![plot2](plot2.png) 
-
-
-### Plot 3
-
-![plot3](plot3.png) 
-
-
-### Plot 4
-
-![plot4](plot4.png) 
-
+ 
